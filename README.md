@@ -18,13 +18,13 @@ Alamat ternak
 
       Cibening,Setu Bekasi kab.
 
-No handphone
+Nomor handphone
 
       087786585924
 
 # Data burung
 
-**No ring         : Zh00001** 
+**Nomor ring         : Zh00001** 
 
 **Jenis burung    : Kacer dada putih** 
 
